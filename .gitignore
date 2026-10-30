@@ -1,0 +1,58 @@
+# Dependency and Environment Directories
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Build Outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+
+# Antigravity Skills, Agents, Rules, and Local Customizations (Excluded from Git)
+.agents/
+.agent/
+_agents/
+_agent/
+.skills/
+skills/
+
+# Vendor & External Repositories (Excluded from Git)
+.vendor/
+vendor/
+external/
+temp/
+scratch/
+
+# Specific Skill & Library Clones (Excluded from Git)
+humanizer/
+skills/
+ui-ux-pro-max-skill/
+taste-skill/
+.taste-skill/
+impeccable/
+.impeccable/
+lenis/
+animate-ui/
+inspira-ui/
+
+# System / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+PRD.md
+feature-ticket-list.md
+security-assessment.md
+specs.md
+technical-architecture.md
+feature-branch.md
+start-appleeats.bat
+start-backend.bat
+start-frontend.bat
+FRONTEND_2000_PRODUCTION_PLAN.md
+FRONTEND_MASTER_PLAN.md

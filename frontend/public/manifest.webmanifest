@@ -1,0 +1,25 @@
+{
+  "name": "Apple Eats UK - Stoke-on-Trent Takeaways",
+  "short_name": "Apple Eats",
+  "description": "Order online from Stoke-on-Trent takeaways including Go Grill, Fish Lounge, Crispy Chicken & Bella Italia with fast delivery across ST1–ST12.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F5F2",
+  "theme_color": "#6B0F24",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/branding/main-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/branding/main-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "delivery", "shopping"]
+}
